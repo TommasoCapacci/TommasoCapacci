@@ -20,5 +20,5 @@ I'm a passionate Computer Science student and this is my personal GitHub profile
 ## Get in Touch
 
 - Linkedin: [Tommaso Capacci](https://www.linkedin.com/in/tommaso-capacci-4190b0287/)
-- Academic email: tommaso.capacci@mail.polimi.it
 - Personal email: tommasocapacci@gmail.com
+- Academic email: tommaso.capacci@mail.polimi.it

@@ -1,6 +1,6 @@
 # Hi there, I'm Tommaso Capacci! 👋
 
-UPDATE: March 2024
+UPDATE: September 2024
 
 I'm a passionate Computer Science student and this is my personal GitHub profile where I collect various projects I've developed for school assignments as well as some others I've worked on out of personal interest.
 

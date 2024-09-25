@@ -9,7 +9,6 @@ I'm a passionate Computer Science student and this is my personal GitHub profile
 - 🎓 Bachelor's degree in Computer Science at Politecnico di Milano
 - 📚 Currently studying for Master's degree in Computer Science
 - 💻 Proficient in C, Java and Python
-- 🌐 Knowledgeable in HTML and CSS
 
 ## My Interests
 
